@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/plates": "^3.3",
+        "twbs/bootstrap": "4.1.3"
+    }
+}
