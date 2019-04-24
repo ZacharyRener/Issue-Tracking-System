@@ -15,3 +15,32 @@
 footer .navbar {
     height: 200px;
 }
+
+.homeJumbo {
+    text-align:center;
+}
+.issueForm input, .loginForm input, .issueForm textarea, .loginForm textarea {
+    width: 50%;
+    margin-bottom: 10px;
+    border-color:transparent !important;
+}
+
+.issueForm input:not(#loginButton), .loginForm input:not(#loginButton), .issueForm textarea {
+    padding-left: 15px;
+}
+
+#loginButton {
+    background-color: #343a40!important;
+    color: white;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+#loginButton:hover {
+    background-color: white !important;
+    color: #343a40 !important;
+}
+
+.issueTron{
+    text-align:center;
+}
