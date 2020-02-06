@@ -1,1 +1,12 @@
 vendor/twbs/bootstrap/
+vendor\twbs\bootstrap\
+vendor\twbs\bootstrap/
+
+wp-content/themes/twenty*/
+vendor/twbs/bootstrap/
+vendor/twbs/bootstrap/*
+vendor/twbs/bootstrap
+
+vendor/twbs/
+vendor/twbs
+vendor/twbs/*
